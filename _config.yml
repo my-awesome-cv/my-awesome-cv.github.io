@@ -20,7 +20,7 @@ author:
   location: Санкт-Петербург
   links:
     - label: "hh.ru"
-      icon: "fab fa-fw fa-id-card"
+      icon: "fa fa-id-card"
       url: "https://hh.ru/resume/a6fea043ff0c202a370039ed1f52306a444d33"
     - label: "Эта страница на GitHub"
       icon: "fab fa-fw fa-github"
