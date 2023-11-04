@@ -10,7 +10,7 @@ description: "Добро пожаловать"
 locale: "ru-RU"
 #time: '%Y' doesn't build because of invalid date format
 breadcrumbs: true
-search: true
+search: false
 
 # Site Author
 author:
