@@ -24,4 +24,8 @@ For detailed instructions on how to configure, customize, add content, and more 
 
 For more details on how to set things up check [Getting started with GitHub Pages](https://docs.github.com/pages).
 
+
+
 Want to learn more about Jekyll? Check out this [tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/).
+
+![Visitor Count](https://profile-counter.glitch.me/my-awesome-cv/count.svg)
