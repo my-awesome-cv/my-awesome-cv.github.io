@@ -29,3 +29,5 @@ For more details on how to set things up check [Getting started with GitHub Page
 Want to learn more about Jekyll? Check out this [tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/).
 
 ![Visitor Count](https://profile-counter.glitch.me/my-awesome-cv/count.svg)
+
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
