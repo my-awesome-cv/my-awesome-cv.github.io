@@ -33,7 +33,7 @@ author:
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-timezone: Europe/Paris
+timezone: Europe/Moscow
 atom_feed:
   hide: true
 
