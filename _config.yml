@@ -4,26 +4,27 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Settings
 title: "Моё резюме"
-subtitle: "Онлайн-версия резюме"
+subtitle: "Онлайн-версия"
 name: "Яковлев Юрий Олегович"
 description: "Добро пожаловать"
 locale: "ru-RU"
+time: "1993-2193"
 breadcrumbs: true
 search: true
 
 # Site Author
 author:
   name   : "Яковлев Юрий Олегович"
-  bio: "Your Bio"
-  avatar : "https://avatars.githubusercontent.com/u/9919?s=110&v=4"
+  bio: "Системный аналитик"
+  avatar : "/assets/images/me.jpeg"
   location: Санкт-Петербург
   links:
     - label: "hh.ru"
-      icon: "fab fa-fw fa-address-card"
+      icon: "fab fa-fw fa-id-card"
       url: "https://hh.ru/resume/a6fea043ff0c202a370039ed1f52306a444d33"
     - label: "Эта страница на GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/my-awesome-cv/my-awesome-cv.github.io"
     - label: "Учебная страница по Scala"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/scalodrome"
