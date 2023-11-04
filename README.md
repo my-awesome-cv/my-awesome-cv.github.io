@@ -30,4 +30,4 @@ Want to learn more about Jekyll? Check out this [tutorial](https://www.taniarasc
 
 ![Visitor Count](https://profile-counter.glitch.me/my-awesome-cv/count.svg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/my-awesome-cv/badge-it)](https://badges.pufler.dev)
