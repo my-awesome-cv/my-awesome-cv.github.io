@@ -66,6 +66,6 @@ title: ""
 
 **OTUS**:
 
-- ▶️ 2024. [Scala-разработчик](https://otus.ru/lessons/scala/).
+<!-- - ▶️ 2024, [Scala-разработчик](https://otus.ru/lessons/scala/). -->
 - ▶️ 2023, [Системный аналитик. Advanced](https://otus.ru/lessons/system_analyst/).
 - ✅ 2022, [Linux для начинающих (видеокурс)](https://otus.ru/online/online-linux).

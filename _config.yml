@@ -3,7 +3,7 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Settings
-title: "Моё резюме"
+title: "Резюме"
 subtitle: "Веб-версия"
 name: "Яковлев Юрий Олегович"
 description: "Добро пожаловать"
