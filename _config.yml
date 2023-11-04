@@ -8,7 +8,7 @@ subtitle: "Онлайн-версия"
 name: "Яковлев Юрий Олегович"
 description: "Добро пожаловать"
 locale: "ru-RU"
-time: '%Y'
+#time: '%Y' doesn't build because of invalid date format
 breadcrumbs: true
 search: true
 
