@@ -2,6 +2,8 @@
 
 <i class="fas fa-moon" id="toggleIcon" onclick="toggleTheme()"></i>
 
+<link rel="shortcut icon" href="{{ "/assets/images/favicon.ico" | relative_url }}">
+
 <script>
     const osDarkMode = window.matchMedia("(prefers-color-scheme: dark)");
     let currentTheme = sessionStorage.getItem("theme");
