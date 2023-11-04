@@ -8,7 +8,7 @@ subtitle: "Онлайн-версия"
 name: "Яковлев Юрий Олегович"
 description: "Добро пожаловать"
 locale: "ru-RU"
-time: "1993"
+time: "%Y"
 breadcrumbs: true
 search: true
 
