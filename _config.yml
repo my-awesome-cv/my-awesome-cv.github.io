@@ -3,33 +3,30 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Settings
-title: "Site Template"
-subtitle: "Awesome Site Template"
-name: "Your Name"
-description: "Your website description!"
-locale: "en-US"
+title: "Моё резюме"
+subtitle: "Онлайн-версия резюме"
+name: "Яковлев Юрий Олегович"
+description: "Добро пожаловать"
+locale: "ru-RU"
 breadcrumbs: true
 search: true
 
 # Site Author
 author:
-  name   : "Your Name"
+  name   : "Яковлев Юрий Олегович"
   bio: "Your Bio"
   avatar : "https://avatars.githubusercontent.com/u/9919?s=110&v=4"
-  location: Localhost, GitHub
+  location: Санкт-Петербург
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
-    - label: "GitHub"
+    - label: "hh.ru"
+      icon: "fab fa-fw fa-address-card"
+      url: "https://hh.ru/resume/a6fea043ff0c202a370039ed1f52306a444d33"
+    - label: "Эта страница на GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/"
-
-# Social Sharing
-og_image: "https://avatars.githubusercontent.com/u/9919?s=110&v=4"
+     - label: "Учебная страница по Scala"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/scalodrome"
 
 # Outputting
 permalink: /:categories/:title/
@@ -74,9 +71,9 @@ defaults:
       header:
         overlay_image: "/assets/images/Mont-Blanc.webp"
         overlay_filter: 0.3
-        actions:
-          - label: "❤️ Become a Sponsor"
-            url: "https://github.com/sponsors/"
+        #actions:
+          #- label: "❤️ Become a Sponsor"
+            #url: "https://github.com/sponsors/"
 
 category_archive:
   type: liquid
