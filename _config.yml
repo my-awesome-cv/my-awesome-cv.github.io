@@ -60,7 +60,7 @@ defaults:
       comments: true
       classes: wide
       header:
-        teaser: "/assets/images/earth-sunrise.webp"
+        teaser: "/assets/images/iss.webp"
   # _pages
   - scope:
       path: "_pages"
@@ -70,11 +70,11 @@ defaults:
       author_profile: true
       classes: wide
       header:
-        overlay_image: "/assets/images/earth-sunrise.webp"
+        overlay_image: "/assets/images/iss.webp"
         overlay_filter: 0.3
-        #actions:
-          #- label: "❤️ Become a Sponsor"
-            #url: "https://github.com/sponsors/"
+        actions:
+          - label: "📨 Написать в Telegram"
+            #url: "https://t.me/yy_job/"
 
 category_archive:
   type: liquid
