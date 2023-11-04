@@ -24,7 +24,7 @@ author:
     - label: "Эта страница на GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-     - label: "Учебная страница по Scala"
+    - label: "Учебная страница по Scala"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/scalodrome"
 
