@@ -74,7 +74,7 @@ defaults:
         overlay_filter: 0.3
         actions:
           - label: "📨 Написать в Telegram"
-            #url: "https://t.me/yy_job/"
+            url: "https://t.me/yy_job/"
 
 category_archive:
   type: liquid
