@@ -25,9 +25,6 @@ author:
     - label: "Эта страница на GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/my-awesome-cv/my-awesome-cv.github.io"
-    - label: "Учебная страница по Scala"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/scalodrome"
 
 # Outputting
 permalink: /:categories/:title/
