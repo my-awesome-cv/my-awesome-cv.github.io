@@ -3,3 +3,5 @@ main:
     url: /
   - title: "Ожидания от места работы"
     url: /expectations/
+  - title: "Обо мне"
+    url: /about/

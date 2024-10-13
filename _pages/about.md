@@ -1,19 +1,14 @@
 ---
-title: "About"
-permalink: /about-your-name-here/
+title: "Обо мне"
+permalink: /about/
 ---
 
-# About You page example
+[Версия резюме на hh.ru](https://hh.ru/resume/a6fea043ff0c202a370039ed1f52306a444d33).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Наиболее заинтересован в разработке ИТ-продуктов с весомой научно-технической составляющей для промышленности.
 
-## 📍 More details
+Поработав на разных стадиях разработки ПО, в разных ролях, коллективах и сферах, пришёл к тому, что ближе всего мне задачи, требующие вдумчивого подхода и большой аналитической работы. Между двумя крайностями — десять часовых задач или одна десятичасовая, — однозначно выберу второй вариант.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Заинтересован в качественном результате, который возможен только при грамотно выстроенном рабочем процессе. Готов организовывать такие процессы в зоне своей ответственности.
 
-## ❤️ Become a Sponsor example
-
-If you have found my work useful, please support me!
-
-* [GitHub Sponsors](https://github.com/sponsors/){: .btn .btn--success}
-* [PayPal](https://paypal.me/){: .btn .btn--info}
+При прочих равных отдам предпочтение предметным областям: машиностроение, промышленность, медицина.
